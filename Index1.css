@@ -7,7 +7,7 @@
 .banner{
     width: 100%;
     height:100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('file:///C:/Users/user/OneDrive/Pictures/Anime%20Wallpapers/1342988.png');
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('1342988.png');
     background-size: cover;
     background-position: cover;
 
