@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+.banner{
+    width: 100%;
+    height:100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('file:///C:/Users/user/OneDrive/Pictures/Anime%20Wallpapers/1342988.png');
+    background-size: cover;
+    background-position: cover;
+
+}
+.vendor {
+    padding-left: 40%;
+    display: flex;
+}
+.vendor ul li
+{
+    padding: 25px 0;
+    display: inline-block;
+    margin: 0 50px;
+
+}
+.vendor ul li a
+{
+    font-size: 18px;
+    color: blue;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+ul li align-self: hover;
+{
+    color: white;
+}
+ul li a::after{
+    margin: 20%;
+}
+.banner h1
+{
+    color: bisque;
+    font-size: 10rem;
+    text-align: center;
+    padding-top: 4%;
+}
+.banner p{
+    color: rgba(113, 11, 11);
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 3%;
+}
+span{
+    color: rgba(127, 117, 230);
+}
